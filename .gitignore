@@ -432,6 +432,9 @@ dev_doc/*
 venv/
 venv/*
 
+.venv/
+.venv/*
+
 # test
 test/
 test/*
